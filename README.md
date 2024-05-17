@@ -8,7 +8,7 @@ Tots els documents formen part del resultat de la llicència d'estudi retribuïd
 
 Els documents s'estructuren de la manera següent:
 - **Memòria**: Conté la memòria final de la llicència d'estudi on s'expliquen els resultats obtinguts.
-- **[Fitxes](Fitxes/index.md)**: Conjunt de 100 fitxes individuals on es presenta una activitat de matemàtiques manipulatives ambientades dins un tema i un curs de secundària.
+- **[Fitxes](Fitxes/index.md)**: Conjunt de 101 fitxes individuals on es presenta una activitat de matemàtiques manipulatives ambientades dins un tema i un curs de secundària.
 - **Guions**: Hi ha 20 guions que dirigeixen una aplicació a l'aula d'una activitat de matemàtiques manipulatives i que es poden fer servir com a material pels alumnes.
 - **Recobriments**: Proposta de planificació de com i quan realitzar les diferents activitats proposades, separant-ho per cursos i temes.
 - **Col·leccions**: Presentació de 6 col·leccions que existeixen de materials manipulatius que es poden fer servir en matemàtiques.
