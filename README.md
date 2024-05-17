@@ -11,4 +11,4 @@ Els documents s'estructuren de la manera següent:
 - **[Fitxes](Fitxes/index.md)**: Conjunt de 101 fitxes individuals on es presenta una activitat de matemàtiques manipulatives ambientades dins un tema i un curs de secundària.
 - **[Guions](Guions/index.md)**: Hi ha 20 guions que dirigeixen una aplicació a l'aula d'una activitat de matemàtiques manipulatives i que es poden fer servir com a material pels alumnes.
 - **Recobriments**: Proposta de planificació de com i quan realitzar les diferents activitats proposades, separant-ho per cursos i temes.
-- **Col·leccions**: Presentació de 6 col·leccions que existeixen de materials manipulatius que es poden fer servir en matemàtiques.
+- **[Col·leccions](Colleccions/index.md)**: Presentació de 6 col·leccions que existeixen de materials manipulatius que es poden fer servir en matemàtiques.
